@@ -21,4 +21,4 @@ npm run test
 
 ```
 ## Client-side API
-[https://github.com/weronka341/Krakow-Airport-frontend](https://github.com/weronka341/Krakow-Airport-frontend)
+[Krakow-Airport-frontend](https://github.com/weronka341/Krakow-Airport-frontend)
