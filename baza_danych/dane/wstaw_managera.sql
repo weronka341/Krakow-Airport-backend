@@ -1,0 +1,1 @@
+INSERT INTO lotnisko.managerowie VALUES (1, '$2b$10$fF0KlbwScsMdOjPUfrIymu1cMwMNgggBVNvzVRSEqV3.SUXAyRSDy');

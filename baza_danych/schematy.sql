@@ -1,0 +1,2 @@
+DROP SCHEMA IF EXISTS lotnisko CASCADE;
+CREATE SCHEMA lotnisko;

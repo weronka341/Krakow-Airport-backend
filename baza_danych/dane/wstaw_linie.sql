@@ -1,0 +1,21 @@
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'AegeaAirlines','A3','AEE','AEGEAN','Grecja');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Austrian Airlines','OS','AUA','AUSTRIAN','Austria');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'British Airways','BA','BAW','SPEEDBIRD','Wielka Brytania');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Brussels International Airlines','SN','BEL','BEE-LINE','Belgia');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Eurowings','EW','EWG','EUROWINGS','Niemcy');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Fly Dubai','FZ','FDB','SKY DUBAI','Zjednoczone Emiraty Arabskie');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Finnair','AY','FIN','FINNAIR','Finlandia');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Iberia Airlines','IB','IBE','IBERIA','Hiszpania');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Jet2.com','LS','EXS','CHANNEX','Wielka Brytania');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'KLM Royal Dutch Airlines','KL','KLM','KLM','Holandia');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Laudamotion','OE','LDM','LAUDA MOTION','Austria');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'LOT Polish Airlines','LO','LOT','POLLOT','Polska');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Lufthansa','LH','DLH','LUFTHANSA','Niemcy');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Norwegian Air Shuttle','DY','NAX','NOR SHUTTLE','Norwegia');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Ryanair','FR','RYR','RYANAIR','Irlandia');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Swiss International Air Lines','LX','SWR','SWISS','Szwajcaria');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'SAS Scandinavian Airlines','SK','SAS','SCANDINAVIAN','Norwegia');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Transavia Holland','HV','TRA','TRANSAVIA','Holandia');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Ukraine International Airlines','PS','AUI','UKRAINE INTERNATIONAL','Ukraina');
+INSERT INTO lotnisko.Linie_lotnicze VALUES ( DEFAULT, 'Vueling Airlines','VY','VLG','VUELING','Hiszpania');
+	

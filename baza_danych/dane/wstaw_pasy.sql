@@ -1,0 +1,2 @@
+INSERT INTO lotnisko.Pasy_startowe VALUES (DEFAULT, 2550, 60, 'CONC PCN 052 R/B/W/T ILS Cat I');
+INSERT INTO lotnisko.Pasy_startowe VALUES (DEFAULT, 2550, 60, 'CONC PCN 052 R/B/W/T');
