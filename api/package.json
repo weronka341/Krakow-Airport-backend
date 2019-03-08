@@ -1,0 +1,32 @@
+{
+  "name": "lotnisko",
+  "version": "1.0.0",
+  "description": "Aplikacja w stylu RESTful do zarzadzania lotniskiem.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --require babel-register index.js",
+    "test": "./node_modules/.bin/mocha --require babel-register tests/*.js --exit"
+  },
+  "author": "Weronika Szpytma",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/polyfill": "^7.2.5",
+    "bcrypt": "^3.0.2",
+    "cors": "^2.8.5",
+    "db": "^1.1.1",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "pg": "^7.7.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
